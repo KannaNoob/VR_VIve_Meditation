@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/BLowtest.unity
+- path: Assets/DemoScenes/First_Playable_Demo.unity
   isLoaded: 1
   isActive: 1
